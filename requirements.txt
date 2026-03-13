@@ -1,0 +1,11 @@
+streamlit
+pandas
+yfinance
+plotly
+scikit-learn
+transformers
+torch
+requests
+python-dotenv
+beautifulsoup4
+feedparser
